@@ -2,13 +2,12 @@
 @font-face {
   font-family: "Comic Relief";
   src: url(../type/ComicRelief-Regular.woff2);
-  font-weight: 4000;
+  font-weight: 400;
   font-style: normal;
 }
 
 body {
   font-family: "Comic Relief", system-ui;
-  background-color: Canvas;
   background-color: #3e2597;
   color-scheme: light dark;
 }
