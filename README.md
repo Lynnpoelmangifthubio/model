@@ -4,6 +4,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 7 sept - 
+
+Artikel: The garden and the stream: A technopastoral
+
+
 ### 4 sept - deep dives
 
 Deep dive Praktische CSS:
