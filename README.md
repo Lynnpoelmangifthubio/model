@@ -4,9 +4,10 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 7 sept - 
+### 7 sept - werkles
 
-Artikel: The garden and the stream: A technopastoral
+Artikel: The garden and the stream: A Technopastoral
+De schrijver wil de lezers overtuigen dat de Garden beter is omdat het persoonlijker is, je kan artikelen uploaden die jij interessant vindt. Slechte artikelen aanpassen/ herschrijven. Je kan op elk moment dingen aan je Digital garden toevoegen.
 
 
 ### 4 sept - deep dives
