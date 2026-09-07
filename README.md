@@ -7,7 +7,10 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 7 sept - werkles
 
 Artikel: The garden and the stream: A Technopastoral
-De schrijver wil de lezers overtuigen dat de Garden beter is omdat het persoonlijker is, je kan artikelen uploaden die jij interessant vindt. Slechte artikelen aanpassen/ herschrijven. Je kan op elk moment dingen aan je Digital garden toevoegen.
+De schrijver wil de lezers overtuigen dat de Garden beter is omdat het persoonlijker is, je kan artikelen uploaden die jij interessant vindt. Slechte artikelen aanpassen/ herschrijven. Je kan op elk moment dingen aan je Digital garden toevoegen...
+
+1. Een digital garden is een verzameling van bestanden die je bij elkaar hebt gezocht, hier plaats je bijv. notities bij en je kan teksten aanpassen of herschrijven. Een normale website is vaker geschreven als een blog en een digital garden is persoonlijker en nooit af, je kan altijd dingen toevoegen.
+2. Een website is "Webby" als het makkelijk toegankelijk is, duidelijke hiërarchie, als het zich aanpast aan elk scherm en light/dark en als het geen afleiding geeft op de achtergrond. Zelf vond ik de website Paavandesign uit de opdracht mooi en netjes gemaakt, 
 
 
 ### 4 sept - deep dives
