@@ -4,6 +4,38 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 9 sept
+
+Presentatie
+Eigen verbinding:​
+Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​
+- Anderen ervan overtuigen om meer uit hun tijd te halen dan alleen maar op hun telefoon zitten.​
+
+Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?
+- Creatief en veelzijdig​
+
+Heeft 'de ander' een aanvulling op je onderwerp?​
+- Nee, maar als ik op 1 van die 4 "onderdelen" zou moeten focussen zou Lysanne zeggen: activiteiten met vrienden.
+
+Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)
+- vrolijk​
+
+Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.
+- aesthetic ​
+
+Een stip op de horizon​
+
+Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's). 
+- Een beetje zoals Pinterest, ik wil met foto's, beschrijving en linkjes gebruikers informeren over leuke activiteiten.​
+
+Vul deze zin aan:
+Ik wil mijn Digital Garden laten gaan over activiteiten
+en wil dat laten zien door foto's, linkjes en tekst aan content te tonen.
+Ik begin met een stukje eigen content over mijzelf. ​
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door foto's, linkjes en meer tekst toevoegen​.
+
+
+
 ### 7 sept - werkles
 
 Artikel: The garden and the stream: A Technopastoral
