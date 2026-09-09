@@ -4,7 +4,15 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 9 sept
+### 9 sept - werkles
+
+Les:
+met visual research begin je met het verzamelen van foto's en het observeren daarvan. Vervolgens vertaal je de foto's in patronen, kleuren en typografie, daarna kies je de meest inspirerende beelden uit en ga je beginnen met schetsen.
+
+Met mijn digitale tuin wil ik andere inspireren om meer uit hun tijd te halen met jezelf maar ook met anderen. 
+Dit doe ik met mijn eigen foto's en inzichten, links en beelden die ik online vind. Zo ontstaat er een plek vol met inspiratie voor anderen.
+
+Van de crazy 8 weet ik nog niet zo goed wat ik verder wil uitwerken, ik had het nog een beetje basic gehouden omdat ik nog niet zo goed wist hoe mijn website er uit moet komen te zien, ik ga een nieuwe crazy 8 maken en die beoordelen.
 
 Presentatie
 Eigen verbinding:​
