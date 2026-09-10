@@ -4,6 +4,24 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+
+### 10 sept - zelfstandig werken
+
+5 mobile-first schetsen:
+<img width="585" height="866" alt="Scherm­afbeelding 2026-09-10 om 19 35 51" src="https://github.com/user-attachments/assets/ea9d80f8-5bf2-4db2-b605-0c18001c308c" />
+<img width="604" height="895" alt="Scherm­afbeelding 2026-09-10 om 19 36 03" src="https://github.com/user-attachments/assets/5518ded0-0ecc-44c8-89e2-c5fe3a5e6b24" />
+
+
+Deepdive mooie kleuren en gradients:
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-10 om 16 09 59" src="https://github.com/user-attachments/assets/ace5ab5f-8085-450a-a2e7-aff98a41c43d" />
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-10 om 15 21 08" src="https://github.com/user-attachments/assets/59c3bac0-2af3-4f8d-bb7f-7a12d541c62f" />
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-10 om 12 42 23" src="https://github.com/user-attachments/assets/ae798b2a-4a88-430f-8ea2-a4f72e177e4f" />
+
+Deepdive schetsen:
+<img width="532" height="842" alt="Scherm­afbeelding 2026-09-10 om 19 39 24" src="https://github.com/user-attachments/assets/6754950c-7dd2-408d-9fa5-1acf99215ad4" />
+
 ### 9 sept - werkles
 
 Les:
@@ -13,6 +31,13 @@ Met mijn digitale tuin wil ik andere inspireren om meer uit hun tijd te halen me
 Dit doe ik met mijn eigen foto's en inzichten, links en beelden die ik online vind. Zo ontstaat er een plek vol met inspiratie voor anderen.
 
 Van de crazy 8 weet ik nog niet zo goed wat ik verder wil uitwerken, ik had het nog een beetje basic gehouden omdat ik nog niet zo goed wist hoe mijn website er uit moet komen te zien, ik ga een nieuwe crazy 8 maken en die beoordelen.
+
+Crazy 4:
+<img width="607" height="873" alt="Scherm­afbeelding 2026-09-10 om 19 44 16" src="https://github.com/user-attachments/assets/e1355505-2ca9-4a7f-bca5-60c0a5054ac3" />
+
+Crazy 8:
+<img width="631" height="888" alt="Scherm­afbeelding 2026-09-09 om 12 30 20" src="https://github.com/user-attachments/assets/06a83fb8-bb85-44ca-9893-29adafc2f3f0" />
+
 
 Presentatie
 Eigen verbinding:​
