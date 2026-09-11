@@ -4,6 +4,10 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 11 sept - werkles
+
+Feedback:
+Kies een richting, travel is net als je Instagram dus ik zou voor iets anders kiezen. Het prikbord idee is leuk, ga daar verder mee werken.
 
 ### 10 sept - zelfstandig werken
 
