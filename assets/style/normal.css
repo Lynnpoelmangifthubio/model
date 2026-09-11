@@ -8,8 +8,14 @@
 
 body {
   font-family: "Comic Relief", system-ui;
-  background-color: #f3e9dd;
   color: #6b4e3d;
+  background-image: repeating-linear-gradient(
+    to left,
+    #7991c8b9,
+    #7991c8b9 2em,
+    #f8f9fa 2em,
+    #f8f9fa 4em
+  );
 }
 
 h1 {
@@ -20,12 +26,10 @@ hr {
   color: #6b4e3d;
 }
 
-.verticale-strepen {
-  background-image: repeating-linear-gradient(
-    to bottom,
-    #7991c8b9,
-    #7991c8b9 2em,
-    #f8f9fa 2em,
-    #f8f9fa 4em
-  );
-}
+background-image: repeating-linear-gradient(
+  to bottom,
+  #7991c8b9,
+  #7991c8b9 2em,
+  #f8f9fa 2em,
+  #f8f9fa 4em
+);
