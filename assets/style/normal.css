@@ -21,7 +21,11 @@ hr {
 }
 
 .verticale-strepen {
-  background-image:
+  background-image: repeating-linear-gradient(
     to bottom,
-    #7991c8b9 4em;
+    #7991c8b9,
+    #7991c8b9 2em,
+    #f8f9fa 2em,
+    #f8f9fa 4em
+  );
 }
