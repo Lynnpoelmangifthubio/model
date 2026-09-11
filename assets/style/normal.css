@@ -19,3 +19,9 @@ h1 {
 hr {
   color: #6b4e3d;
 }
+
+.verticale-strepen {
+  background-image:
+    to bottom,
+    #7991c8b9;
+}
