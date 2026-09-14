@@ -4,6 +4,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 15 sept - Deepdive: Responsive grid + Grid-areas
+
+grid areas maken:
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-14 om 21 57 48" src="https://github.com/user-attachments/assets/20c43890-81a8-4372-8e63-9a0e9f98b80d" />
+
+
 ### 14 sept - werkles
 
 Een website is lelijk als de afbeeldingen heel groot zijn en er geen css is toegepast, dit kan je fixen door de width toe te passen. Als je grid toepast ziet de website er nog beter uit. 
@@ -12,8 +18,21 @@ Als volgende stap ga ik zorgen dat mijn content zich aan past op de grootte va h
 
 ### 11 sept - werkles
 
+Deepdive: Grid 101 + Media queries
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-13 om 22 34 43" src="https://github.com/user-attachments/assets/b2372e43-82a3-41d9-bb49-db6646209730" />
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-13 om 15 03 14" src="https://github.com/user-attachments/assets/3e6ad434-94c8-4d43-adbe-f469b1051d52" />
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-13 om 12 55 42" src="https://github.com/user-attachments/assets/ce29e894-b42e-43e8-862d-edc0b5449f0f" />
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 21 55 46" src="https://github.com/user-attachments/assets/4963d047-7fa6-42da-bc1c-97907dee9207" />
+
 Feedback:
 Kies een richting, travel is net als je Instagram dus ik zou voor iets anders kiezen. Het prikbord idee is leuk, ga daar verder mee werken.
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-14 om 12 50 06" src="https://github.com/user-attachments/assets/f7566fe4-8bec-4c12-a7b7-ee64a530f0d9" />
+
 
 ### 10 sept - zelfstandig werken
 
