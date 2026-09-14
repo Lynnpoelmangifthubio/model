@@ -4,6 +4,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 14 sept - werkles
+
+Een website is lelijk als de afbeeldingen heel groot zijn en er geen css is toegepast, dit kan je fixen door de width toe te passen. Als je grid toepast ziet de website er nog beter uit. 
+
+Als volgende stap ga ik zorgen dat mijn content zich aan past op de grootte va het scherm door media queries toevoegen.
+
 ### 11 sept - werkles
 
 Feedback:
