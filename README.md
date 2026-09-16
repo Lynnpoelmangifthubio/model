@@ -16,6 +16,12 @@ Een website is lelijk als de afbeeldingen heel groot zijn en er geen css is toeg
 
 Als volgende stap ga ik zorgen dat mijn content zich aan past op de grootte va het scherm door media queries toevoegen.
 
+<img width="4039" height="2627" alt="IMG_1583" src="https://github.com/user-attachments/assets/25162a7e-8cb1-4bb0-81b2-1c840573ec44" />
+
+
+<img width="3775" height="2722" alt="IMG_1582" src="https://github.com/user-attachments/assets/11abeebb-40b1-4299-adb0-90ea54d22e3a" />
+
+
 ### 11 sept - werkles
 
 Deepdive: Grid 101 + Media queries
