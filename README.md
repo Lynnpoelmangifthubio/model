@@ -16,6 +16,15 @@ Grid is voor consistentie op een pagina.
 
 Voor mijn pagina ga ik sowieso aan de slag met hiërarchie.
 
+De schetsen die ik voor Jiahui heb gemaakt:
+<img width="877" height="567" alt="Scherm­afbeelding 2026-09-17 om 11 28 54" src="https://github.com/user-attachments/assets/f1eefd93-70c1-4ed7-9ceb-54f5e324c3d3" />
+
+De schetsen die Jiahui voor mij heeft gemaakt:
+<img width="1106" height="773" alt="Scherm­afbeelding 2026-09-17 om 11 30 38" src="https://github.com/user-attachments/assets/4d751def-6da1-498d-9d4b-7606a94678cd" />
+<img width="1194" height="754" alt="Scherm­afbeelding 2026-09-17 om 11 30 28" src="https://github.com/user-attachments/assets/e5b6f12f-1cc7-4f36-b19d-d5d7f9b91103" />
+
+
+
 ### 15 sept - Deepdive: Responsive grid + Grid-areas
 
 grid areas maken:
