@@ -4,6 +4,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+
+### 16 sept - werkles
+
+3 design principes:
+1. contrast= verschillende elementen naast elkaar zetten om aandacht te trekken.
+2. hiërarchie= als tekst of content op volgorde staan van at het belangrijkste is.
+3. scale= als belangrijkere elementen groter zijn dan minder belangrijke elementen.
+
+Grid is voor consistentie op een pagina.
+
+Voor mijn pagina ga ik sowieso aan de slag met hiërarchie.
+
 ### 15 sept - Deepdive: Responsive grid + Grid-areas
 
 grid areas maken:
