@@ -4,10 +4,62 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+
+### 16 sept - werkles
+
+3 design principes:
+1. contrast= verschillende elementen naast elkaar zetten om aandacht te trekken.
+2. hiërarchie= als tekst of content op volgorde staan van at het belangrijkste is.
+3. scale= als belangrijkere elementen groter zijn dan minder belangrijke elementen.
+
+Grid is voor consistentie op een pagina.
+
+Voor mijn pagina ga ik sowieso aan de slag met hiërarchie.
+
+De schetsen die ik voor Jiahui heb gemaakt:
+<img width="877" height="567" alt="Scherm­afbeelding 2026-09-17 om 11 28 54" src="https://github.com/user-attachments/assets/f1eefd93-70c1-4ed7-9ceb-54f5e324c3d3" />
+
+De schetsen die Jiahui voor mij heeft gemaakt:
+<img width="1106" height="773" alt="Scherm­afbeelding 2026-09-17 om 11 30 38" src="https://github.com/user-attachments/assets/4d751def-6da1-498d-9d4b-7606a94678cd" />
+<img width="1194" height="754" alt="Scherm­afbeelding 2026-09-17 om 11 30 28" src="https://github.com/user-attachments/assets/e5b6f12f-1cc7-4f36-b19d-d5d7f9b91103" />
+
+
+
+### 15 sept - Deepdive: Responsive grid + Grid-areas
+
+grid areas maken:
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-14 om 21 57 48" src="https://github.com/user-attachments/assets/20c43890-81a8-4372-8e63-9a0e9f98b80d" />
+
+
+### 14 sept - werkles
+
+Een website is lelijk als de afbeeldingen heel groot zijn en er geen css is toegepast, dit kan je fixen door de width toe te passen. Als je grid toepast ziet de website er nog beter uit. 
+
+Als volgende stap ga ik zorgen dat mijn content zich aan past op de grootte va het scherm door media queries toevoegen.
+
+<img width="4039" height="2627" alt="IMG_1583" src="https://github.com/user-attachments/assets/25162a7e-8cb1-4bb0-81b2-1c840573ec44" />
+
+
+<img width="3775" height="2722" alt="IMG_1582" src="https://github.com/user-attachments/assets/11abeebb-40b1-4299-adb0-90ea54d22e3a" />
+
+
 ### 11 sept - werkles
+
+Deepdive: Grid 101 + Media queries
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-13 om 22 34 43" src="https://github.com/user-attachments/assets/b2372e43-82a3-41d9-bb49-db6646209730" />
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-13 om 15 03 14" src="https://github.com/user-attachments/assets/3e6ad434-94c8-4d43-adbe-f469b1051d52" />
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-13 om 12 55 42" src="https://github.com/user-attachments/assets/ce29e894-b42e-43e8-862d-edc0b5449f0f" />
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-11 om 21 55 46" src="https://github.com/user-attachments/assets/4963d047-7fa6-42da-bc1c-97907dee9207" />
 
 Feedback:
 Kies een richting, travel is net als je Instagram dus ik zou voor iets anders kiezen. Het prikbord idee is leuk, ga daar verder mee werken.
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-14 om 12 50 06" src="https://github.com/user-attachments/assets/f7566fe4-8bec-4c12-a7b7-ee64a530f0d9" />
+
 
 ### 10 sept - zelfstandig werken
 
