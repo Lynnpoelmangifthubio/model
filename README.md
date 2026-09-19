@@ -4,6 +4,25 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 18 sept - werkles
+
+<img width="876" height="628" alt="Scherm­afbeelding 2026-09-19 om 13 27 02" src="https://github.com/user-attachments/assets/f0f555bf-2d6a-4d92-99aa-69fe8bfd4742" />
+
+<img width="874" height="616" alt="Scherm­afbeelding 2026-09-19 om 13 27 12" src="https://github.com/user-attachments/assets/1a209e5b-c898-4f9a-9f90-e7678601656b" />
+
+<img width="881" height="637" alt="Scherm­afbeelding 2026-09-19 om 13 27 35" src="https://github.com/user-attachments/assets/0bb1416d-2021-4c9b-9a89-dc1f4161dec3" />
+
+
+### 17 sept 
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-19 om 13 30 19" src="https://github.com/user-attachments/assets/cd568338-56d1-432a-b406-24c1ff86e4f7" />
+
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-17 om 11 15 26" src="https://github.com/user-attachments/assets/9fc85c87-020d-4a5e-97aa-32d551e28357" />
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-17 om 11 15 24" src="https://github.com/user-attachments/assets/47e9ee9d-c865-46b6-a30b-fdb20d9409e1" />
+
+Ik had noemer aan mijn garden willen doen maar ik wist niet zo goed hoe ik mijn garden moest vormgeven, het is nu best strak en netjes maar wel basic.
 
 ### 16 sept - werkles
 
