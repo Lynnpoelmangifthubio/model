@@ -6,6 +6,19 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 18 sept - werkles
 
+check-out:
+Oriënteren en begrijpen:
+Door de deepdives en de opdrachten die we van de docenten krijgen leer ik de basis van het web. Ook heb ik geleerd hoe je light-dark aan je garden kan toepassen en hoe je foto's en tekst laat aanpassen op verschillende groottes van schermen.
+
+Verbeelden en conceptualiseren:
+Ideeën bedenken voor mijn website ging wel een beetje langzaam, en dan met name het vormgeven ervan. Als ik een idee had wist ik wel hoe ik het moest schetsen maar ik had er wel wat moeite mee, ik ben nog niet blij met mijn website dus ik ga hier nog wat aandacht aan besteden. Voor nu heb ik een minimalistische stijl en heb ik een hover effect aan de afbeeldingen en tekst-buttons toegevoegd.
+
+Prototypen en uitwerken:
+De codes die ik in de deepdives en vorig jaar heb geleerd heb ik verwerkt in mijn garden. Ik ben begonnen met een simpele html, daaraan heb ik css toegevoegd en later heb ik html de header aangepast. Door hulp van de docenten is het gelukt om mijn website uiteindelijk op Github te downloaden.
+
+Evalueren:
+Mijn doel was om een toegankelijke gebiste te maken, door dingen uit te proberen en zelf het scherm te testen ontdekte ik dat de meeste teksten wel meeschalen maar nog niet allemaal. Ook heb een light-dark modus toegevoegd, hier wil ik alleen nog een aparte knop voor maken. Ik weet nu hoe ik een goede basis moet maken met html en css. Ik moet nog meer aandacht besteden aan conceptualiseren door meer te brainstormen en te schetsen.
+
 <img width="876" height="628" alt="Scherm­afbeelding 2026-09-19 om 13 27 02" src="https://github.com/user-attachments/assets/f0f555bf-2d6a-4d92-99aa-69fe8bfd4742" />
 
 <img width="874" height="616" alt="Scherm­afbeelding 2026-09-19 om 13 27 12" src="https://github.com/user-attachments/assets/1a209e5b-c898-4f9a-9f90-e7678601656b" />
