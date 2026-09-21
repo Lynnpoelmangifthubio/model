@@ -1,4 +1,6 @@
-/* HIER KOMT JOUW CSS */
+/**************************
+* MARK: Section fonts
+**************************/
 @font-face {
   font-family: "fraunces";
   src: url(../type/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
@@ -20,6 +22,10 @@
   font-style: normal;
 }
 
+/**************************
+* MARK: Custom properties
+**************************/
+
 html {
   /* color-scheme */
   color-scheme: light dark;
@@ -27,9 +33,58 @@ html {
   /* custom properties */
   --background: light-dark(#e6d7b9, #3e513b);
   --color: light-dark(#3e513b, #fff5e1);
-
   --color-h1: light-dark(#2c3a2e, #cdba93);
+
+  --step-0: clamp(1rem, 0.9167rem + 0.3704vw, 1.25rem);
+  --step-1: clamp(1.2rem, 0.975rem + 1vw, 1.875rem);
+  --step-2: clamp(1.44rem, 0.9825rem + 2.0333vw, 2.8125rem);
+  --step-3: clamp(1.728rem, 0.8978rem + 3.69vw, 4.2188rem);
+  --step-4: clamp(2.0736rem, 0.6554rem + 6.303vw, 6.3281rem);
+  --step-5: clamp(2.4883rem, 0.1537rem + 10.3761vw, 9.4922rem);
 }
+
+/**************************
+* MARK: body
+**************************/
+
+body {
+  font-family: "inter", sans-serif;
+  font-weight: 100;
+  background-color: var(--background);
+  color: var(--color);
+  font-size: var(--step-0);
+  margin: var(--whitespace-s);
+
+  display: grid;
+  grid-template-areas:
+    "header header"
+    "main"
+    "footer";
+
+  @media (width > 30em) {
+    grid-template-areas:
+      "header header"
+      "main"
+      "footer";
+  }
+}
+
+/**************************
+* MARK: main
+**************************/
+
+main {
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+/**************************
+* MARK: header
+**************************/
 
 header {
   background: light-dark (#fff5e1, #556b4d);
@@ -74,20 +129,15 @@ header > nav a:hover {
   text-decoration: underline;
 }
 
+/**************************
+* MARK: articles
+**************************/
+
 p {
   text-align: center;
   font-weight: 400;
   font-size: var(--step-0);
   margin: 0;
-}
-
-body {
-  font-family: "inter", sans-serif;
-  font-weight: 100;
-  background-color: var(--background);
-  color: var(--color);
-  font-size: var(--step-0);
-  margin: var(--whitespace-s);
 }
 
 ul {
@@ -136,6 +186,7 @@ figcaption {
   inset: 0;
   background: light-dark(#fff5e1, #495e46);
   color: var(--color);
+  font-size: var(--step-0);
   padding: 1.5em;
   display: flex;
   justify-content: center;
@@ -156,6 +207,36 @@ figure:hover > figcaption {
   text-align: left;
 }
 
+/**************************
+* MARK: footer
+**************************/
+
 footer {
   margin: 0;
+  align-items: center;
+  justify-content: center;
+
+  P {
+    font-size: 0.8em;
+  }
+}
+
+footer > nav {
+  h2 {
+    display: absolute;
+    left: -9999999em;
+  }
+}
+
+/**************************
+* MARK: Section link states
+**************************/
+
+a:hover {
+  color: deeppink;
+}
+
+a:focus {
+  color: deeppink;
+  outline: 0.2em dashed deeppink;
 }
