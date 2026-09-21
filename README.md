@@ -4,6 +4,15 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 22 sept - zelfstandig werken
+
+Deepdive: Buttons, states en selectors
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-21 om 21 17 56" src="https://github.com/user-attachments/assets/edc26e1a-821f-40b4-a3e7-7be114358278" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-21 om 21 37 03" src="https://github.com/user-attachments/assets/86e65065-cb68-443c-83f3-35154cf26e17" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-21 om 21 59 24" src="https://github.com/user-attachments/assets/f61d0bcb-c388-4802-9620-a078b69abbc9" />
+Ik heb geleerd wat Pseudo-classes zijn en hoe ik ze moet gebruiken bij knoppen.
+
+
 ### 21 sept - werkles
 
 Wat zijn HTML landmark role elements?
@@ -14,6 +23,10 @@ H1 t/m h6 en je gebruikt ze van meest belangrijkst naar minst belangrijkst.
 
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
 Ik ben lui dus ik klik meestal op akkoord en lees niks door. Na de les blijf ik nogsteeds op akkoord klikken, ik vind het wel handig als de websites "aangepast" worden op basis van mijn gegevens.
+
+Opdracht: cookies van de Volkskrant en Paradiso:
+<img width="884" height="643" alt="Scherm­afbeelding 2026-09-21 om 22 02 47" src="https://github.com/user-attachments/assets/a4a8a593-a049-48d5-a473-9d348337b46e" />
+
 
 ### 18 sept - werkles
 
