@@ -4,6 +4,17 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 21 sept - werkles
+
+Wat zijn HTML landmark role elements?
+HTML landmark role elements zijn onder andere een head, header, body, main en een footer. Die gebruik je voor een structuur in je pagina. 
+
+Wat zijn heading elementen en hoe horen deze 'genest' te worden?
+H1 t/m h6 en je gebruikt ze van meest belangrijkst naar minst belangrijkst.
+
+Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+Ik ben lui dus ik klik meestal op akkoord en lees niks door. Na de les blijf ik nogsteeds op akkoord klikken, ik vind het wel handig als de websites "aangepast" worden op basis van mijn gegevens.
+
 ### 18 sept - werkles
 
 check-out:
