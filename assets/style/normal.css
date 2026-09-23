@@ -3,21 +3,21 @@
 **************************/
 @font-face {
   font-family: "fraunces";
-  src: url(../type/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
+  src: url(../fonts/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: "fraunces";
-  src: url(../type/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
+  src: url(../fonts/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "inter";
-  src: url(../type/Inter/Inter-VariableFont_opsz\,wght.ttf);
+  font-family: "bitcount";
+  src: url(../fonts/Bitcount_Prop_Single/BitcountPropSingle-VariableFont_CRSV\,ELSH\,ELXP\,slnt\,wght.ttf);
   font-weight: 100 900;
   font-style: normal;
 }
@@ -92,11 +92,11 @@ header {
 }
 
 h1 {
-  font-family: "fraunces", Arial, Helvetica, sans-serif;
+  font-family: "bitcount", "Andale mono";
   text-align: center;
   font-size: 4.5em;
   letter-spacing: 0.05em;
-  font-weight: 700;
+  font-weight: 500;
   margin: 0;
 }
 
