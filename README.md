@@ -12,6 +12,14 @@ Deepdive: Buttons, states en selectors
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-21 om 21 59 24" src="https://github.com/user-attachments/assets/f61d0bcb-c388-4802-9620-a078b69abbc9" />
 Ik heb geleerd wat Pseudo-classes zijn en hoe ik ze moet gebruiken bij knoppen.
 
+Na de feedback van Diederik en een paar klasgenoten heb ik besloten om meer richting groep activiteiten te gaan. Hiervoor had ik bedacht om een soort arcade achtig te maken, met iets van een neon en retro stijl. 
+
+Moodboard:
+<img width="2000" height="1414" alt="moodboard garden" src="https://github.com/user-attachments/assets/5cc87d61-c7b2-43cf-babd-5a43cf9ffb78" />
+
+Brainstorm:
+<img width="602" height="874" alt="Scherm­afbeelding 2026-09-23 om 12 17 47" src="https://github.com/user-attachments/assets/58eb858c-23f5-48cc-8c12-4407cbe3f62d" />
+
 
 ### 21 sept - werkles
 
