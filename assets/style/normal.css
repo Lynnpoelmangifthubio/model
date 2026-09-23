@@ -31,8 +31,8 @@ html {
   color-scheme: light dark;
 
   /* custom properties */
-  --background: light-dark(#e6d7b9, #3e513b);
-  --color: light-dark(#3e513b, #fff5e1);
+  --background: light-dark(#b9c2e6, #15215e);
+  --color: light-dark(#15215e, #b9c2e6);
   --color-h1: light-dark(#2c3a2e, #cdba93);
 
   --step-0: clamp(1rem, 0.9167rem + 0.3704vw, 1.25rem);
