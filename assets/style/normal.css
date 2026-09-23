@@ -16,8 +16,8 @@
 }
 
 @font-face {
-  font-family: "bitcount";
-  src: url(../fonts/Bitcount_Prop_Single/BitcountPropSingle-VariableFont_CRSV\,ELSH\,ELXP\,slnt\,wght.ttf);
+  font-family: "press";
+  src: url(../fonts/Press_Start_2P/PressStart2P-Regular.ttf);
   font-weight: 100 900;
   font-style: normal;
 }
@@ -92,21 +92,22 @@ header {
 }
 
 h1 {
-  font-family: "bitcount", "Andale mono";
+  font-family: "press", "Andale mono";
   text-align: center;
   font-size: 4.5em;
   letter-spacing: 0.05em;
   font-weight: 500;
-  margin: 0;
+  margin-top: 0.5em;
 }
 
 header > nav {
   display: flex;
-  justify-content: center;
+  justify-content: left;
+  margin-left: 3em;
   align-items: center;
   text-wrap: wrap;
-  margin-top: 2em;
-  margin-bottom: 1em;
+  margin-top: 0.5em;
+  margin-bottom: 0em;
   gap: 2em;
   width: 100%;
   padding: 0;
@@ -204,6 +205,15 @@ figure:hover > figcaption {
   text-align: left;
 }
 
+section {
+  display: flex;
+  align-items: center;
+  background-color: #7984b0;
+  border: 0.1rem solid #3c456a;
+  border-radius: 1.5rem;
+  padding: 1em;
+}
+
 /**************************
 * MARK: footer
 **************************/
@@ -230,10 +240,9 @@ footer > nav {
 **************************/
 
 a:hover {
-  color: deeppink;
+  color: limegreen;
 }
 
 a:focus {
-  color: deeppink;
-  outline: 0.2em dashed deeppink;
+  color: limegreen;
 }
