@@ -4,6 +4,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 23 sept - werkles
+
+Check-out:
+Een wireflow zijn schetsen van schermen wat laat zien hoe de gebruiker door de app heen navigeert. je ziet fouten zo sneller wat je tijd bespaard.
+Dark UX patterns: misleidenden kleuren bij knoppen, roach motel en neppe cijfers van "er is nog maar 1 kamer beschikbaar".
+Bij het maken van een human consent component moet je er op letten dat je deelt wat er met de gegevens van de gebruiker gebeurd, dat de info duidelijk is en dat je gelijke knoppen maakt.
+
 ### 22 sept - zelfstandig werken
 
 Deepdive: Buttons, states en selectors
