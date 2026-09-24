@@ -2,16 +2,9 @@
 * MARK: Section fonts
 **************************/
 @font-face {
-  font-family: "fraunces";
-  src: url(../fonts/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
+  font-family: "mono";
+  src: url(../fonts/Space_Mono/SpaceMono-Regular.ttf);
   font-weight: 400;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "fraunces";
-  src: url(../fonts/Fraunces/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf);
-  font-weight: 700;
   font-style: normal;
 }
 
@@ -31,8 +24,8 @@ html {
   color-scheme: light dark;
 
   /* custom properties */
-  --background: light-dark(#b9c2e6, #15215e);
-  --color: light-dark(#15215e, #b9c2e6);
+  --background: light-dark(#b9c2e6, #030820);
+  --color: light-dark(##030820, #b9c2e6);
   --color-h1: light-dark(#2c3a2e, #cdba93);
 
   --step-0: clamp(1rem, 0.9167rem + 0.3704vw, 1.25rem);
@@ -41,6 +34,11 @@ html {
   --step-3: clamp(1.728rem, 0.8978rem + 3.69vw, 4.2188rem);
   --step-4: clamp(2.0736rem, 0.6554rem + 6.303vw, 6.3281rem);
   --step-5: clamp(2.4883rem, 0.1537rem + 10.3761vw, 9.4922rem);
+
+  --whitespace-s: 1rem;
+  --whitespace-m: calc(var(--whitespace-s) * 2);
+  --whitespace-l: calc(var(--whitespace-s) * 4);
+  --whitespace-xs: calc(var(--whitespace-s) * 0.5);
 }
 
 /**************************
@@ -48,13 +46,13 @@ html {
 **************************/
 
 body {
-  font-family: "inter", sans-serif;
-  font-weight: 100;
+  font-family: "mono", "Andale mono";
+  font-weight: 400;
   background-color: var(--background);
   color: var(--color);
   font-size: var(--step-0);
   margin: var(--whitespace-s);
-
+  min-height: 100vh;
   display: grid;
   grid-template-areas:
     "header header"
@@ -63,7 +61,7 @@ body {
 
   @media (width > 30em) {
     grid-template-areas:
-      "header header"
+      "header"
       "main"
       "footer";
   }
@@ -84,7 +82,6 @@ body {
 **************************/
 
 header {
-  background: light-dark (#fff5e1, #556b4d);
   width: 100%;
   padding-top: 1em;
   padding-bottom: 0;
@@ -94,7 +91,7 @@ header {
 h1 {
   font-family: "press", "Andale mono";
   text-align: center;
-  font-size: 4.5em;
+  font-size: 4em;
   letter-spacing: 0.05em;
   font-weight: 500;
   margin-top: 0.5em;
@@ -115,9 +112,9 @@ header > nav {
 
 header > nav a {
   text-decoration: none;
-  font-family: "inter", arial;
+  font-family: "mono", "Andale mono";
   color: var(--color);
-  font-size: 1em;
+  font-size: 0.7em;
   font-weight: 400;
   text-align: center;
   display: block;
@@ -125,6 +122,63 @@ header > nav a {
 
 header > nav a:hover {
   text-decoration: underline;
+}
+
+/**************************
+* MARK: section
+**************************/
+
+section {
+  display: grid;
+  grid-template-columns: 1fr 12em;
+  gap: 1.5em;
+  margin-inline: auto;
+  width: 100%;
+  max-width: 45em;
+  align-items: center;
+  background-color: #7984b0;
+  border: 0.1rem solid #3c456a;
+  border-radius: 1.5rem;
+  padding: 1.5em;
+  box-shadow: 0 0 1em var(--card-glow, rgba(0, 255, 102, 0.2)); /*bron: www.gemini.com */
+}
+
+section article {
+  display: grid;
+  gap: 0.8em;
+  width: 100%;
+}
+
+section p {
+  line-height: 1.5;
+  font-size: 0.8em;
+  text-align: left;
+}
+
+section a {
+  justify-self: start;
+  display: inline-block;
+  text-align: center;
+  padding: 0.5em 1.2em;
+  background-color: aliceblue;
+  color: #15215e;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 2em;
+}
+
+section figure {
+  margin: 0;
+  display: grid;
+  place-items: center;
+}
+
+section img {
+  width: 100%;
+  max-width: 40em;
+  height: auto;
+  aspect-ratio: 1/ 1;
+  object-fit: cover;
 }
 
 /**************************
@@ -158,7 +212,8 @@ figure {
 
 h2 {
   text-align: center;
-  margin: 2.5em;
+  margin: 1.5em;
+  line-height: 1.8em;
 }
 
 figure > a {
@@ -169,7 +224,7 @@ figure > a {
   position: relative;
 }
 
-img {
+article img {
   width: 100%;
   height: auto;
   display: grid;
@@ -182,7 +237,7 @@ img {
 figcaption {
   position: absolute;
   inset: 0;
-  background: light-dark(#fff5e1, #495e46);
+  background-color: #7984b0;
   color: var(--color);
   font-size: var(--step-0);
   padding: 1.5em;
@@ -202,16 +257,7 @@ figure:hover > figcaption {
 
 .webring h2 {
   font-size: 0.1em;
-  text-align: left;
-}
-
-section {
-  display: flex;
-  align-items: center;
-  background-color: #7984b0;
-  border: 0.1rem solid #3c456a;
-  border-radius: 1.5rem;
-  padding: 1em;
+  text-align: center;
 }
 
 /**************************
@@ -219,6 +265,7 @@ section {
 **************************/
 
 footer {
+  grid-area: footer;
   margin: 0;
   align-items: center;
   justify-content: center;
@@ -232,6 +279,50 @@ footer > nav {
   h2 {
     display: absolute;
     left: -9999999em;
+  }
+}
+
+/**************************
+* MARK: cookies
+**************************/
+
+dialog {
+  border: 0.1rem solid #3c456a;
+  border-radius: 1.5em;
+  background-color: grey;
+  max-width: 30em;
+  width: 100%;
+
+  h3 {
+    text-align: center;
+  }
+
+  menu {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0;
+    margin: 2em 0 0 0;
+    list-style: none;
+    border-top: 0.1em solid #3c456a;
+
+    button {
+      background-color: transparent;
+      margin-bottom: 0em;
+      font-family: "mono", "Andale mono";
+      padding: var(--whitespace-s);
+      font-size: var(--step-0);
+      text-align: center;
+      cursor: pointer;
+
+      &:first-of-type {
+        border-right: 0.1em solid #3c456a;
+      }
+
+      &:hover {
+        background-color: rgb(204, 200, 200);
+        box-shadow: 0 0 1em var(--card-glow, rgba(0, 255, 102, 0.2)); /*bron: www.gemini.com */
+      }
+    }
   }
 }
 

@@ -7,12 +7,8 @@
 
     <title>Digitaal Tuintje van Lynn</title>
     <link rel="stylesheet" href="./assets/style/normal.css" />
+    <script defer src="script.js"></script>
     <!-- Importeer het webring component, voeg jouw eigen domein toe in data-page -->
-    <script
-      data-page="[https://voorbeeld.nl]"
-      src="https://digitaaltuintje.nl/webring.js"
-      defer
-    ></script>
   </head>
 
   <header>
@@ -34,24 +30,27 @@
         Hi, <br />
         Welkom bij de Digital Guide!
       </h2>
+
+      <section>
+        <article>
+          <h3>Mijn favo activiteiten</h3>
+          <p>
+            Ik vind het leuk om met vrienden de deur uit te gaan en bijv. te
+            gaan lasergamen, naar de bioscoop of iets anders gaan doen. Eens
+            iets wat anders dan alleen maar naar het terras of naar de kroeg. Zo
+            maak je veel leukere herrineringen met zijn allen!
+          </p>
+          <a href="activiteiten.html">ontdek activiteiten</a>
+        </article>
+
+        <figure>
+          <img
+            src="./assets/images/Alunderground.jpeg"
+            alt="Almere underground"
+          />
+        </figure>
+      </section>
     </main>
-
-    <section>
-      <article>
-        <h3>Mijn favo activiteiten</h3>
-        <p>
-          Ik vind het leuk om met vrienden de deur uit te gaan en bijv. te gaan
-          lasergamen, naar de bioscoop of iets anders gaan doen. Eens iets wat
-          anders dan alleen maar naar het terras of naar de kroeg. Zo maak je
-          veel leukere herrineringen met zijn allen!
-        </p>
-        <a href="activiteiten.html">ontdek activiteiten</a>
-      </article>
-    </section>
-
-    <footer>
-      <p>Digital garden - Lynn Poelman</p>
-    </footer>
 
     <footer>
       <nav>
@@ -59,10 +58,13 @@
           <span>Allow cookies?</span>
         </button>
       </nav>
+      <p>Digital garden - Lynn Poelman</p>
     </footer>
 
     <dialog id="cookieModal">
       <form method="dialog">
+        <h3>cookies instellingen</h3>
+        <button value="close" aria-label="sluiten">×</button>
         <p>
           We use cookies to personalise content and ads, to provide social media
           features and to analyse our traffic. We also share information about
@@ -71,8 +73,10 @@
           provided to them or that they’ve collected from your use of their
           services.
         </p>
-        <button onclick="setCookie()">Allow</button>
-        <button onclick="unsetCookie()">Deny</button>
+        <menu>
+          <button onclick="setCookie()">toegestaan</button>
+          <button onclick="unsetCookie()">weigeren</button>
+        </menu>
       </form>
     </dialog>
   </body>
