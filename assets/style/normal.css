@@ -292,9 +292,22 @@ dialog {
   background-color: grey;
   max-width: 30em;
   width: 100%;
+  padding: 0;
+  overflow: hidden;
 
   h3 {
     text-align: center;
+    font-weight: 600;
+  }
+
+  form > button {
+    float: right;
+    border-radius: 0;
+    border: 0.1em solid #3c456a;
+    background-color: transparent;
+    padding: 0.2em 0.2em;
+    font-family: "press", "Andale mono";
+    font-size: 1.5em;
   }
 
   menu {
