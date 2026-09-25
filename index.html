@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="nl">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,25 +11,20 @@
     <!-- Importeer het webring component, voeg jouw eigen domein toe in data-page -->
   </head>
 
-  <header>
-    <nav>
-      <a href="index.html">home</a>
-      <a href="activiteiten.html">activiteiten</a>
-      <a href="aboutme.html">about me</a>
-    </nav>
-
-    <hr />
-
-    <p>MY DIGITAL GUIDE</p>
-    <h1>activities</h1>
-  </header>
-
   <body>
+    <header>
+      <nav>
+        <a href="index.html">home</a>
+        <a href="activiteiten.html">activiteiten</a>
+        <a href="aboutme.html">about me</a>
+      </nav>
+
+      <p>MY DIGITAL GUIDE</p>
+      <h1>activities</h1>
+    </header>
+
     <main>
-      <h2>
-        Hi, <br />
-        Welkom bij de Digital Guide!
-      </h2>
+      <h2>Hi, Welkom bij de Digital Guide!</h2>
 
       <section>
         <article>
@@ -43,19 +38,17 @@
           <a href="activiteiten.html">ontdek activiteiten</a>
         </article>
 
-        <figure>
-          <img
-            src="./assets/images/Alunderground.jpeg"
-            alt="Almere underground"
-          />
-        </figure>
+        <img
+          src="./assets/images/Alunderground.jpeg"
+          alt="Almere underground"
+        />
       </section>
     </main>
 
     <footer>
       <nav>
         <button commandfor="cookieModal" command="show-modal">
-          <span>Allow cookies?</span>
+          <span>cookies toestaan?</span>
         </button>
       </nav>
       <p>Digital garden - Lynn Poelman</p>
@@ -66,16 +59,16 @@
         <h3>cookies instellingen</h3>
         <button value="close" aria-label="sluiten">×</button>
         <p>
-          We use cookies to personalise content and ads, to provide social media
-          features and to analyse our traffic. We also share information about
-          your use of our site with our social media, advertising and analytics
-          partners who may combine it with other information that you’ve
-          provided to them or that they’ve collected from your use of their
-          services.
+          We gebruiken cookies om inhoud en advertenties te personaliseren, om
+          functies voor sociale media te bieden en om ons verkeer te analyseren.
+          Ook delen we informatie over uw gebruik van onze site met onze
+          partners voor sociale media, advertenties en analyses; zij kunnen deze
+          informatie combineren met andere gegevens die u aan hen heeft
+          verstrekt of die zij hebben verzameld via uw gebruik van hun diensten.
         </p>
         <menu>
-          <button onclick="setCookie()">toegestaan</button>
-          <button onclick="unsetCookie()">weigeren</button>
+          <li><button onclick="setCookie()">toegestaan</button></li>
+          <li><button onclick="unsetCookie()">weigeren</button></li>
         </menu>
       </form>
     </dialog>

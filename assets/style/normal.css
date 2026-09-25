@@ -86,6 +86,7 @@ header {
   padding-top: 1em;
   padding-bottom: 0;
   margin-bottom: 3em;
+  border-bottom: 0.1em;
 }
 
 h1 {
@@ -167,18 +168,16 @@ section a {
   border-radius: 2em;
 }
 
-section figure {
+section img {
   margin: 0;
   display: grid;
   place-items: center;
-}
-
-section img {
   width: 100%;
   max-width: 40em;
   height: auto;
   aspect-ratio: 1/ 1;
   object-fit: cover;
+  border-radius: 1em;
 }
 
 /**************************
@@ -214,6 +213,7 @@ h2 {
   text-align: center;
   margin: 1.5em;
   line-height: 1.8em;
+  font-size: 1em;
 }
 
 figure > a {
@@ -301,13 +301,15 @@ dialog {
   }
 
   form > button {
-    float: right;
-    border-radius: 0;
-    border: 0.1em solid #3c456a;
+    position: absolute;
+    top: 0;
+    right: 0;
     background-color: transparent;
-    padding: 0.2em 0.2em;
+    padding: 0.2em;
     font-family: "press", "Andale mono";
     font-size: 1.5em;
+    cursor: pointer;
+    overflow: hidden;
 
     &:first-of-type {
       border-right: 0.1em solid #3c456a;
@@ -335,9 +337,16 @@ dialog {
       font-size: var(--step-0);
       text-align: center;
       cursor: pointer;
+      width: 100%;
 
-      &:first-of-type {
-        border-right: 0.1em solid #3c456a;
+      li {
+        margin: 0;
+        padding: 0;
+        display: flex;
+
+        &:first-of-type {
+          border-right: 0.1em solid #3c456a;
+        }
       }
 
       &:hover {
