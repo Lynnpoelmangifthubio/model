@@ -27,7 +27,7 @@ Ik heb vandaag:
 
 ### 24 sept - zelfstandig werken
 
-Ik heb vandaag aan mijn human consent gewerkt.
+Ik heb vandaag aan mijn human consent gewerkt. Omdat de cookie pop-up wat serieuzer is heb ik er voor gekozen om grijze kleuren te gebruiken, dit oogt formeler. Ik wil alleen nog de knop "cookies toestaan? form geven en opmaken.
 
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-25 om 12 54 27" src="https://github.com/user-attachments/assets/49b08de7-c132-4bf0-8898-6260d8795a3f" />
 
