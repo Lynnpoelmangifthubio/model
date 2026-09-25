@@ -308,6 +308,15 @@ dialog {
     padding: 0.2em 0.2em;
     font-family: "press", "Andale mono";
     font-size: 1.5em;
+
+    &:first-of-type {
+      border-right: 0.1em solid #3c456a;
+    }
+
+    &:hover {
+      background-color: rgb(204, 200, 200);
+      box-shadow: 0 0 1em var(--card-glow, rgba(0, 255, 102, 0.2)); /*bron: www.gemini.com */
+    }
   }
 
   menu {
