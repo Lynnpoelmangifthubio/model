@@ -4,6 +4,33 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 25 sept - werkles
+
+Check-out:
+Een html validatie checkt je html op fouten en helpt je je website te verbeteren. Ik heb elementen gebruikt in mijn html zoals <hr> en <br> om te stylen, ik had figures gebruikt en <menu> zonder <li>. Die punten heb ik nu verbeterd.
+
+
+Feedback:
+Probeer je website minder statisch te maken en probeer meer met de layout te spelen.
+Border van afbeelding is groter dan het raster er omheen.
+Geef wat meer kleur aan je website.
+Probeer 1 taal aan te houden
+Html niet gebruiken voor de styling, fouten nog even verbeteren.
+
+Ik heb vandaag:
+- een text-animation toegevoegd
+- met hulp van Sanne de tekst grootte aangepast, die Gata nu mee met het formaat van het scherm.
+- de feedback over mijn html verwerkt.
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-25 om 12 48 07" src="https://github.com/user-attachments/assets/79bcd17c-1220-48d1-be46-e25b2a46287c" />
+
+
+### 24 sept - zelfstandig werken
+
+Ik heb vandaag aan mijn human consent gewerkt.
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-25 om 12 54 27" src="https://github.com/user-attachments/assets/49b08de7-c132-4bf0-8898-6260d8795a3f" />
+
 ### 23 sept - werkles
 
 Check-out:
