@@ -7,7 +7,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 25 sept - werkles
 
 Check-out:
-Een html validatie checkt je html op fouten en helpt je je website te verbeteren. Ik heb elementen gebruikt in mijn html zoals <hr> en <br> om te stylen, ik had figures gebruikt en <menu> zonder <li>. Die punten heb ik nu verbeterd.
+Een html validatie checkt je html op fouten en helpt je je website te verbeteren. Ik heb elementen gebruikt in mijn html zoals <hr> en <br> om te stylen, ik had figures gebruikt en menu zonder li. Die punten heb ik nu verbeterd.
 
 
 Feedback:
