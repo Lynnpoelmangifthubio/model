@@ -150,10 +150,10 @@ header > nav a:hover {
 }
 
 /**************************
-* MARK: section
+* MARK: div
 **************************/
 
-section {
+div {
   display: grid;
   grid-template-columns: 1fr 12em;
   gap: 1.5em;
@@ -168,19 +168,19 @@ section {
   box-shadow: 0 0 1em var(--card-glow, rgba(0, 255, 102, 0.2)); /*bron: www.gemini.com */
 }
 
-section article {
+div article {
   display: grid;
   gap: 0.8em;
   width: 100%;
 }
 
-section p {
+div p {
   line-height: 1.5;
   font-size: 0.8em;
   text-align: left;
 }
 
-section a {
+div a {
   justify-self: start;
   display: inline-block;
   text-align: center;
@@ -192,7 +192,7 @@ section a {
   border-radius: 2em;
 }
 
-section img {
+div img {
   margin: 0;
   display: grid;
   place-items: center;
