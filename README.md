@@ -6,6 +6,19 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 25 sept - werkles
 
+W3C validatie:
+Before
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-27 om 14 05 51" src="https://github.com/user-attachments/assets/4e3ef84f-4876-437b-9091-039fc5ef88e9" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-27 om 13 50 26" src="https://github.com/user-attachments/assets/57cbca82-dc42-4000-826e-60aa5fc9c6ad" />
+After
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-27 om 13 50 38" src="https://github.com/user-attachments/assets/949af0b0-2a90-47ca-a4ec-93d0a5908700" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-27 om 13 56 40" src="https://github.com/user-attachments/assets/a67c31c6-7322-4dd2-9f10-3344c0e60e3f" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-27 om 14 07 28" src="https://github.com/user-attachments/assets/19aedfd4-7f34-4d01-9cfe-9a49c583b779" />
+
+
+Ik had alleen een warning, ik moest de section veranderen naar een div, dit heb ik aangepast en nu heb ik geen errors meer.
+
+
 Check-out:
 Een html validatie checkt je html op fouten en helpt je je website te verbeteren. Ik heb elementen gebruikt in mijn html zoals <hr> en <br> om te stylen, ik had figures gebruikt en menu zonder li. Die punten heb ik nu verbeterd.
 
