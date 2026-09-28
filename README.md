@@ -14,7 +14,8 @@ Wat voor type beperkingen hebben invloed op het gebruiken van websites?
 Noem drie manieren om door een website te navigeren met jouw screenreader.
 - tap, pijltjes en spatie. 
 
-
+Nieuwe schets website:
+<img width="541" height="828" alt="Scherm­afbeelding 2026-09-28 om 19 56 38" src="https://github.com/user-attachments/assets/034118b7-5e7e-41db-87c5-7be61f8c937a" />
 
 ### 25 sept - werkles
 
@@ -54,6 +55,15 @@ Ik heb vandaag:
 
 Ik heb vandaag aan mijn human consent gewerkt. Omdat de cookie pop-up wat serieuzer is heb ik er voor gekozen om grijze kleuren te gebruiken, dit oogt formeler. Ik wil alleen nog de knop "cookies toestaan? form geven en opmaken.
 
+Voorbeelden:
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-23 om 12 24 36" src="https://github.com/user-attachments/assets/4bc8eeb2-726e-49fb-bc62-3c4079914984" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-23 om 12 23 40" src="https://github.com/user-attachments/assets/e017f5bc-4c96-4f87-aefa-c712b3dba99d" />
+
+
+Schetsen:
+<img width="571" height="853" alt="Scherm­afbeelding 2026-09-28 om 19 56 17" src="https://github.com/user-attachments/assets/3add9288-cbfd-4d8c-a3fc-06c3031e6378" />
+<img width="581" height="880" alt="Scherm­afbeelding 2026-09-28 om 19 56 32" src="https://github.com/user-attachments/assets/42bd2089-ee18-4ca8-85a1-6b98603b5038" />
+
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-09-25 om 12 54 27" src="https://github.com/user-attachments/assets/49b08de7-c132-4bf0-8898-6260d8795a3f" />
 
 ### 23 sept - werkles
@@ -62,6 +72,10 @@ Check-out:
 Een wireflow zijn schetsen van schermen wat laat zien hoe de gebruiker door de app heen navigeert. je ziet fouten zo sneller wat je tijd bespaard.
 Dark UX patterns: misleidenden kleuren bij knoppen, roach motel en neppe cijfers van "er is nog maar 1 kamer beschikbaar".
 Bij het maken van een human consent component moet je er op letten dat je deelt wat er met de gegevens van de gebruiker gebeurd, dat de info duidelijk is en dat je gelijke knoppen maakt.
+
+Schets website:
+<img width="536" height="828" alt="Scherm­afbeelding 2026-09-28 om 19 56 25" src="https://github.com/user-attachments/assets/2747cf21-2bd5-4f97-ae34-050bd4ba746e" />
+
 
 ### 22 sept - zelfstandig werken
 
