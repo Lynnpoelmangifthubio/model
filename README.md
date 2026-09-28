@@ -4,6 +4,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 28 sept - werkles
+
+Check-out:
+Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?:
+- Wat de code doet voor de gebruikers.
+Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+- De 4 beperkingen die invloed hebben op het gebruiken van websites zijn: visueel (slecht kunnen zien, beperkt zicht), auditief (slecht horend), motorisch (dyslexie) en cognitief (Parkinson).
+Noem drie manieren om door een website te navigeren met jouw screenreader.
+- tap, pijltjes en spatie. 
+
+
+
 ### 25 sept - werkles
 
 W3C validatie:
