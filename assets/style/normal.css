@@ -74,10 +74,6 @@ body {
 }
 
 /**************************
-* MARK: main
-**************************/
-
-/**************************
 * MARK: header
 **************************/
 
@@ -97,7 +93,8 @@ h1 {
   margin-top: 0.5em;
   text-shadow:
     5px 5px 0 #ff005e,
-    10px 10px 0 #00d4ff;
+    10px 10px 0 #00d4ff,
+    15px 15px 0 #fadc51;
   animation: shadow-dance 2s infinite;
 
   font-size: clamp(1rem, -0.5rem + 7.5vw, 4rem);
@@ -109,12 +106,14 @@ h1 {
   100% {
     text-shadow:
       5px 5px 0 #ff005e,
-      10px 10px 0 #00d4ff;
+      10px 10px 0 #00d4ff,
+      15px 15px 0 #fadc51;
   }
   50% {
     text-shadow:
-      -5px -5px 0 #00d4ff,
-      -10px -10px 0 #ff005e;
+      -5px -5px 0 #fadc51,
+      -10px -10px 0 #00d4ff,
+      -15px -15px 0 #ff005e;
   }
 }
 
@@ -150,6 +149,19 @@ header > nav a:hover {
 }
 
 /**************************
+* MARK: main
+**************************/
+
+h2 {
+  text-align: center;
+  font-size: 1.4em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+/**************************
 * MARK: div
 **************************/
 
@@ -163,7 +175,6 @@ div {
   align-items: center;
   background-color: #7984b0;
   border: 0.1rem solid #3c456a;
-  border-radius: 1.5rem;
   padding: 1.5em;
   box-shadow: 0 0 1em var(--card-glow, rgba(0, 255, 102, 0.2)); /*bron: www.gemini.com */
 }
@@ -189,7 +200,21 @@ div a {
   color: #15215e;
   font-weight: 600;
   text-decoration: none;
-  border-radius: 2em;
+}
+
+a:hover {
+  background: #00d4ff;
+  color: darkblue;
+}
+
+a:active {
+  background: lightgray;
+  color: gray;
+}
+
+footer button:focus-visible {
+  background: red;
+  color: green;
 }
 
 div img {
@@ -201,87 +226,59 @@ div img {
   height: auto;
   aspect-ratio: 1/ 1;
   object-fit: cover;
-  border-radius: 1em;
 }
 
 /**************************
-* MARK: articles
+* MARK: Details
 **************************/
 
-p {
-  text-align: center;
-  font-weight: 400;
-  font-size: var(--step-0);
-  margin: 0;
+details {
+  /* bron: deepdive detials/summary */
+  display: inline-block;
+  border-width: 0.1em;
+  border-style: solid;
+  border-color: var(--button-color);
+  margin-left: 1em;
 }
 
-ul {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
-  gap: 2em;
-  list-style-type: none;
-  justify-items: center;
+summary {
+  padding-block: 1em;
+  padding-inline: 1em;
 }
 
-article {
-  width: 100%;
-}
-
-figure {
-  position: relative;
-  overflow: hidden;
-  border-radius: 2em;
-}
-
-h2 {
-  text-align: center;
-  margin: 1.5em;
-  line-height: 1.8em;
-  font-size: 1em;
-}
-
-figure > a {
-  color: var(--color-h1);
-  font-size: var(--step-0);
-  font-weight: 700;
-  text-decoration: underline;
-  position: relative;
-}
-
-article img {
-  width: 100%;
-  height: auto;
-  display: grid;
+summary img {
+  width: 15rem;
+  display: block;
+  margin-top: 0.5em;
   aspect-ratio: 1/ 1;
-  margin-block: var(--whitespace-s);
-  border-radius: 2em;
   object-fit: cover;
 }
 
-figcaption {
-  position: absolute;
-  inset: 0;
-  background-color: #7984b0;
-  color: var(--color);
-  font-size: var(--step-0);
-  padding: 1.5em;
-  display: flex;
-  justify-content: center;
-  text-align: center;
-  align-items: center;
-  flex-direction: column;
-  transform: translateY(100%);
-  transition: 0.2s ease-in-out;
+details p {
+  max-width: 15rem;
+  font-size: 0.8em;
+  text-align: justify;
 }
 
-figure:hover > figcaption {
-  transform: translateY(0);
+details:open::details-content {
+  padding-inline: 1em;
+  padding-block: 1em;
 }
-/*bron: https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Transitions/Using*/
 
-.webring h2 {
-  font-size: 0.1em;
-  text-align: center;
+details:open summary {
+  border-bottom: 0.1em solid var(--button-color);
+}
+
+details:nth-of-type(1) summary {
+  background-color: #ff005e;
+}
+
+details:nth-of-type(2) summary {
+  background-color: #00d4ff;
+}
+
+details:nth-of-type(3) summary {
+  background-color: #fadc51;
 }
 
 /**************************
@@ -291,6 +288,9 @@ figure:hover > figcaption {
 footer {
   grid-area: footer;
   margin: 0;
+  margin-top: 2em;
+  display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 
@@ -314,6 +314,32 @@ footer > nav {
   &:open {
     display: block !important;
   }
+}
+
+footer button {
+  justify-self: start;
+  display: inline-block;
+  text-align: center;
+  padding: 0.5em 1.2em;
+  background-color: aliceblue;
+  color: #15215e;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+footer button:hover {
+  background: #00d4ff;
+  color: darkblue;
+}
+
+footer button:active {
+  background: lightgray;
+  color: gray;
+}
+
+footer button:focus-visible {
+  background: red;
+  color: green;
 }
 
 dialog {
@@ -396,10 +422,10 @@ dialog {
 * MARK: Section link states
 **************************/
 
-a:hover {
+button:hover {
   color: limegreen;
 }
 
-a:focus {
+button:focus {
   color: limegreen;
 }
