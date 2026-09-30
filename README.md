@@ -4,6 +4,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 30 sept - werkles
+
+Check-out;
+- WCAG staat voor Web Content Accessibility Guidelines, deze is voor de wetgeving van het web. A11y staat voor accessibility, dit is voor de toegankelijkheid.
+- Ik vind het lastig om met een screenreader websites te bedienen omdat het traag gaat.
+- Ik vind het meest lastigs om rekening te houden met de beperking visuele vertigo. Je moet je website dan zo ontwerpen dat je geen snelle visuele bewegingen gebruikt en. letten op de transitions. 
+
 ### 28 sept - werkles
 
 Check-out:
