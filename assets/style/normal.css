@@ -456,3 +456,12 @@ button:hover {
 button:focus {
   color: limegreen;
 }
+
+:active {
+  background: lightgray;
+  color: gray;
+}
+:focus-visible {
+  background: #fadc51;
+  color: #00d4ff;
+}
