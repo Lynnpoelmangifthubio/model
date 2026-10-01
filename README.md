@@ -39,6 +39,10 @@ Ik heb Details/summary aan mijn website toegevoegd voor de activiteiten, eerst z
 
 <img width="1710" height="991" alt="Scherm­afbeelding 2026-10-01 om 10 49 29" src="https://github.com/user-attachments/assets/2c426588-0c45-4949-8f0b-04678382662b" />
 
+Ook heb ik de kleuren van mijn pagina veranderd en de border-radius weg gehaald omdat dit veel beter bij het design voor mijn website past. Ik kies voor simpele achtergrond kleuren en veel accent kleuren om het meer arcade style te maken. De website gaat nu al meer 1 inrichting op en vorm zo een geheel.
+
+<img width="1708" height="778" alt="Scherm­afbeelding 2026-10-01 om 20 55 45" src="https://github.com/user-attachments/assets/6e8ced03-cd08-4666-a1dc-206348fced13" />
+<img width="1697" height="777" alt="Scherm­afbeelding 2026-10-01 om 20 54 12" src="https://github.com/user-attachments/assets/0388954d-e061-4aa2-aa92-d6441c696366" />
 
 ### 28 sept - werkles
 
