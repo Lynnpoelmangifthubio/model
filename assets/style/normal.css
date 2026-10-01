@@ -30,9 +30,11 @@ html {
   color-scheme: light dark;
 
   /* custom properties */
-  --background: light-dark(#b9c2e6, #030820);
-  --color: light-dark(##030820, #b9c2e6);
+  --background-color: light-dark(#ededed, #000000);
+  --color: light-dark(#030820, #f8f9fd);
   --color-h1: light-dark(#2c3a2e, #cdba93);
+  --background-div: light-dark(#fadc51, #ff005e);
+  --background-div-border: light-dark(#ff005e, #fadc51);
 
   --step-0: clamp(1rem, 0.9167rem + 0.3704vw, 1.25rem);
   --step-1: clamp(1.2rem, 0.975rem + 1vw, 1.875rem);
@@ -54,7 +56,7 @@ html {
 body {
   font-family: "mono", "Andale mono";
   font-weight: 400;
-  background-color: var(--background);
+  background-color: var(--background-color);
   color: var(--color);
   font-size: var(--step-0);
   margin: 0;
@@ -161,6 +163,23 @@ h3 {
   font-size: 1.2em;
 }
 
+/*gele blokken onder de div */
+ol {
+  list-style: none;
+  width: 50%;
+  height: 1em;
+  padding: 0;
+  margin-block: 3em;
+
+  background: repeating-linear-gradient(
+    /* deepdive: kleur & gradient */ 90deg,
+    #fadc51 0,
+    #fadc51 1em,
+    transparent 1em,
+    transparent 2em
+  );
+}
+
 /**************************
 * MARK: div
 **************************/
@@ -173,8 +192,8 @@ div {
   width: 100%;
   max-width: 45em;
   align-items: center;
-  background-color: #7984b0;
-  border: 0.1rem solid #3c456a;
+  background-color: var(--background-div);
+  border: 0.1rem solid var(--background-div-border);
   padding: 1.5em;
   box-shadow: 0 0 1em var(--card-glow, rgba(0, 255, 102, 0.2)); /*bron: www.gemini.com */
 }
@@ -231,6 +250,14 @@ div img {
 /**************************
 * MARK: Details
 **************************/
+
+section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
+  gap: 2em;
+  justify-items: center;
+  align-items: start;
+}
 
 details {
   /* bron: deepdive detials/summary */
