@@ -365,8 +365,8 @@ footer button:active {
 }
 
 footer button:focus-visible {
-  background: red;
-  color: green;
+  background: #fadc51;
+  color: #00d4ff;
 }
 
 dialog {
