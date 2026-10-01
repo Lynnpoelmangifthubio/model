@@ -7,7 +7,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 1 okt 
 
 
-
+<img width="4284" height="5712" alt="IMG_1670" src="https://github.com/user-attachments/assets/654385f1-9d25-4454-bf41-a459e3c06b41" />
+<img width="4284" height="5712" alt="IMG_1671" src="https://github.com/user-attachments/assets/df74117b-fe52-441f-b51f-73d7e290b73d" />
+<img width="4284" height="5712" alt="IMG_1672" src="https://github.com/user-attachments/assets/3bcbb5e6-a24f-43b6-9d45-cfce399c4582" />
+<img width="4284" height="5712" alt="IMG_1674" src="https://github.com/user-attachments/assets/bab35915-0c8f-46b8-ae94-85dc021fb4e8" />
+<img width="4284" height="5712" alt="IMG_1673" src="https://github.com/user-attachments/assets/b866fc40-ca98-4320-9e55-6878574fb98c" />
 
 ### 30 sept - werkles
 
@@ -34,16 +38,11 @@ Noem drie manieren om door een website te navigeren met jouw screenreader.
 - tap, pijltjes en spatie. 
 
 Nieuwe schets website:
+
 <img width="541" height="828" alt="Scherm­afbeelding 2026-09-28 om 19 56 38" src="https://github.com/user-attachments/assets/034118b7-5e7e-41db-87c5-7be61f8c937a" />
 
 
-<img width="4284" height="5712" alt="IMG_1670" src="https://github.com/user-attachments/assets/654385f1-9d25-4454-bf41-a459e3c06b41" />
-<img width="4284" height="5712" alt="IMG_1671" src="https://github.com/user-attachments/assets/df74117b-fe52-441f-b51f-73d7e290b73d" />
-<img width="4284" height="5712" alt="IMG_1672" src="https://github.com/user-attachments/assets/3bcbb5e6-a24f-43b6-9d45-cfce399c4582" />
-<img width="4284" height="5712" alt="IMG_1674" src="https://github.com/user-attachments/assets/bab35915-0c8f-46b8-ae94-85dc021fb4e8" />
-<img width="4284" height="5712" alt="IMG_1673" src="https://github.com/user-attachments/assets/b866fc40-ca98-4320-9e55-6878574fb98c" />
 <img width="4177" height="2857" alt="IMG_1659" src="https://github.com/user-attachments/assets/b73d802c-8f78-42cb-8fa8-6d7edd9c5a05" />
-
 <img width="4967" height="3326" alt="IMG_1660 2" src="https://github.com/user-attachments/assets/3df086a7-a5e2-4ac1-af2f-ab0923bb6314" />
 
 ### 25 sept - werkles
