@@ -23,7 +23,7 @@ Opmerkingen:
 De verbeter punten heb ik toegevoegd aan mijn website. Ook heb ik 3 details/summary toegevoegd aan mijn home Paige en ik heb met een organised list en een repeating-linear-gradient een geblokte lijn toegevoegd tot halverwege als soort van opsplitsing tussen de div en de summary. Zo geeft het een meer arcade effect.
 
 <img width="1710" height="986" alt="Scherm­afbeelding 2026-10-01 om 10 36 28" src="https://github.com/user-attachments/assets/6f62cdc8-1c0e-4cf8-8c94-184c0bee84e7" />
-<img width="3420" height="2214" alt="Scherm­afbeelding 2026-10-01 om 11 34 47" src="https://github.com/user-attachments/assets/8716f75c-a8bd-4716-93ba-c50add66427d" />
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-01 om 20 52 44" src="https://github.com/user-attachments/assets/ce1b82dd-ee0b-4af7-950e-266b50e15df7" />
 
 
 ### 30 sept - werkles
