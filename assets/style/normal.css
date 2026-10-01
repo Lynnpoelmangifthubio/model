@@ -1,6 +1,7 @@
 /**************************
 * MARK: Section fonts
 **************************/
+/* deepdive: font */
 @font-face {
   font-family: "mono";
   src: url(../fonts/Space_Mono/SpaceMono-Regular.ttf);
@@ -24,7 +25,7 @@
 /**************************
 * MARK: Custom properties
 **************************/
-
+/* deepdive: simpele css*/
 html {
   /* color-scheme */
   color-scheme: light dark;
@@ -116,6 +117,14 @@ h1 {
       -5px -5px 0 #fadc51,
       -10px -10px 0 #00d4ff,
       -15px -15px 0 #ff005e;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  /* www.gemini.com */
+  * {
+    animation: none !important;
+    transition: none !important;
   }
 }
 
@@ -451,23 +460,27 @@ dialog {
 * MARK: Section link states
 **************************/
 
-button:hover {
-  color: limegreen;
-}
-
 button:focus {
   color: limegreen;
 }
 
-:active {
+nav a:active,
+button:active,
+details summary:active {
   background: lightgray;
   color: gray;
 }
 :focus-visible {
   background: #fadc51;
   color: #ff005e;
+  border: 0.2rem solid darkblue;
 }
 :checked {
   background: #15215e;
   color: #00d4ff;
+}
+
+a[target="_blank"]::after {
+  content: " ↗";
+  font-size: 0.8em;
 }
