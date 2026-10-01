@@ -140,7 +140,7 @@ header > nav a {
   text-decoration: none;
   font-family: "mono", "Andale mono";
   color: var(--color);
-  font-size: 0.7em;
+  font-size: 1em;
   font-weight: 400;
   text-align: center;
   display: block;
@@ -266,6 +266,7 @@ details {
   border-style: solid;
   border-color: var(--button-color);
   margin-left: 1em;
+  cursor: pointer;
 }
 
 summary {
@@ -352,6 +353,7 @@ footer button {
   color: #15215e;
   font-weight: 600;
   text-decoration: none;
+  cursor: pointer;
 }
 
 footer button:hover {
@@ -463,5 +465,9 @@ button:focus {
 }
 :focus-visible {
   background: #fadc51;
+  color: #ff005e;
+}
+:checked {
+  background: #15215e;
   color: #00d4ff;
 }
