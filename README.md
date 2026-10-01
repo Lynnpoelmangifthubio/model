@@ -1,4 +1,4 @@
-<img width="4177" height="2857" alt="IMG_1659" src="https://github.com/user-attachments/assets/47a3c3df-9dac-46ac-8c0f-d93eb1b51f6a" /># Model
+# Model
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
@@ -6,12 +6,25 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 1 okt 
 
-
 <img width="4284" height="5712" alt="IMG_1670" src="https://github.com/user-attachments/assets/654385f1-9d25-4454-bf41-a459e3c06b41" />
 <img width="4284" height="5712" alt="IMG_1671" src="https://github.com/user-attachments/assets/df74117b-fe52-441f-b51f-73d7e290b73d" />
 <img width="4284" height="5712" alt="IMG_1672" src="https://github.com/user-attachments/assets/3bcbb5e6-a24f-43b6-9d45-cfce399c4582" />
 <img width="4284" height="5712" alt="IMG_1674" src="https://github.com/user-attachments/assets/bab35915-0c8f-46b8-ae94-85dc021fb4e8" />
 <img width="4284" height="5712" alt="IMG_1673" src="https://github.com/user-attachments/assets/b866fc40-ca98-4320-9e55-6878574fb98c" />
+
+Opmerkingen:
+- Titels toevoegen aan de andere pagina's
+- Kleuren toepassen aan de focus state
+- Font-size van nav vergroten
+- Heb ik een "skip link" nodig?
+- Identify links toevoegen
+- Reduce toevoegen voor de animaties
+
+De verbeter punten heb ik toegevoegd aan mijn website. Ook heb ik 3 details/summary toegevoegd aan mijn home Paige en ik heb met een organised list en een repeating-linear-gradient een geblokte lijn toegevoegd tot halverwege als soort van opsplitsing tussen de div en de summary. Zo geeft het een meer arcade effect.
+
+<img width="1710" height="986" alt="Scherm­afbeelding 2026-10-01 om 10 36 28" src="https://github.com/user-attachments/assets/6f62cdc8-1c0e-4cf8-8c94-184c0bee84e7" />
+<img width="3420" height="2214" alt="Scherm­afbeelding 2026-10-01 om 11 34 47" src="https://github.com/user-attachments/assets/8716f75c-a8bd-4716-93ba-c50add66427d" />
+
 
 ### 30 sept - werkles
 
