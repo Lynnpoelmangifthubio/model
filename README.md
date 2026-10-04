@@ -4,7 +4,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 1 okt 
+### 2 okt - sprint 2 retrospect
+
+<img width="814" height="565" alt="Scherm­afbeelding 2026-10-04 om 12 31 11" src="https://github.com/user-attachments/assets/08e2f5fd-7929-4b2e-a147-7f897efe8bab" />
+<img width="835" height="571" alt="Scherm­afbeelding 2026-10-04 om 12 31 19" src="https://github.com/user-attachments/assets/cb35f6e1-b865-40d3-9d91-13c515dbbd79" />
+<img width="852" height="643" alt="Scherm­afbeelding 2026-10-04 om 12 31 27" src="https://github.com/user-attachments/assets/26844f9b-842b-4a77-9896-4ebf66f9f445" />
+
+### 1 okt - zelfstandig werken
 
 <img width="4284" height="5712" alt="IMG_1670" src="https://github.com/user-attachments/assets/654385f1-9d25-4454-bf41-a459e3c06b41" />
 <img width="4284" height="5712" alt="IMG_1671" src="https://github.com/user-attachments/assets/df74117b-fe52-441f-b51f-73d7e290b73d" />
