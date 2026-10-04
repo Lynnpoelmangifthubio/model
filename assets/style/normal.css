@@ -87,6 +87,21 @@ header {
   margin-bottom: 3em;
 }
 
+.skip {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.skip:focus {
+  position: static;
+  width: auto;
+  height: auto;
+}
+
 h1 {
   font-family: "press", "Andale mono";
   text-align: center;
@@ -134,14 +149,10 @@ header > nav {
 
   margin: 0;
   padding: 1em;
-  /* margin-left: 3em; */
   align-items: center;
   text-wrap: wrap;
-  /* margin-top: 0.5em; */
-  /* margin-bottom: 0em; */
   gap: 2em;
   width: 100%;
-  /* padding: 0; */
   border-bottom: 0.02em solid white;
 }
 
@@ -172,28 +183,13 @@ h3 {
   font-size: 1.2em;
 }
 
-/*gele blokken onder de div */
-ol {
-  list-style: none;
-  width: 50%;
-  height: 1em;
-  padding: 0;
-  margin-block: 3em;
-
-  background: repeating-linear-gradient(
-    /* deepdive: kleur & gradient */ 90deg,
-    #fadc51 0,
-    #fadc51 1em,
-    transparent 1em,
-    transparent 2em
-  );
-}
-
 /**************************
 * MARK: div
 **************************/
 
-div {
+section:first-of-type {
+  position: relative;
+
   display: grid;
   grid-template-columns: 1fr 12em;
   gap: 1.5em;
@@ -205,21 +201,42 @@ div {
   border: 0.1rem solid var(--background-div-border);
   padding: 1.5em;
   box-shadow: 0 0 1em var(--card-glow, rgba(0, 255, 102, 0.2)); /*bron: www.gemini.com */
+
+  margin-bottom: 7em;
 }
 
-div article {
+/* blokken lijn */
+section:first-of-type::after {
+  content: "";
+  position: absolute;
+  bottom: -4em;
+  width: 50%;
+  left: 0;
+  height: 1em;
+  background-color: green;
+
+  background: repeating-linear-gradient(
+    /* deepdive: kleur & gradient */ 90deg,
+    #fadc51 0,
+    #fadc51 1em,
+    transparent 1em,
+    transparent 2em
+  );
+}
+
+section:first-of-type article {
   display: grid;
   gap: 0.8em;
   width: 100%;
 }
 
-div p {
+section:first-of-type p {
   line-height: 1.5;
   font-size: 0.8em;
   text-align: left;
 }
 
-div a {
+section:first-of-type a {
   justify-self: start;
   display: inline-block;
   text-align: center;
@@ -245,7 +262,7 @@ footer button:focus-visible {
   color: green;
 }
 
-div img {
+section:first-of-type img {
   margin: 0;
   display: grid;
   place-items: center;
@@ -260,7 +277,7 @@ div img {
 * MARK: Details
 **************************/
 
-section {
+section:second-of-type {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
   gap: 2em;
