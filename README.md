@@ -4,11 +4,58 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 6 ok6 - zelfstandig werken
+
+Ik ben vandaag verder gegaan met de digitale vertaling van mijn schets:
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-15 om 13 23 40" src="https://github.com/user-attachments/assets/475b1d0b-c98b-4c7b-aff0-7f75cb423d32" />
+
+<img width="1710" height="989" alt="Scherm­afbeelding 2026-10-15 om 14 35 12" src="https://github.com/user-attachments/assets/15fb4562-cfed-438f-80ce-3922bb0118a7" />
+
+En ik heb de deep dive: S3: Interessantere layouts gemaakt.
+
+### 5 okt - werkles
+
+Leg uit wat er met de volgende termen bedoeld wordt: 
+kerning= de ruimte tussen 2 letters, 
+tracking= letter-spacing, 
+leading= regel ruimte, 
+flush-left= links uitgelijnd, 
+flush-right= rechtsb uitgelijnd, 
+centered= inhoud in het midden geplaatst, 
+justified= de test wordt over de volledige breedte uitgelijnd, 
+indent= een regel die inspringt en bijv iets meer vanaf links begint, 
+outdent= een regel die uitspringt en bijv iets dichter vanaf links begint, 
+modular scale= vaste verhouding voor letter groottes gebruiken, 
+movable type= losse letters, 
+focus punt= het punt van je website wat als eerste opvalt, 
+vijf soorten contrast= grootte, weight, kleur, stijl en positie, 
+spatial tension= als je bijv. elementen te dicht bij elkaar zet krijg je spatial tension,
+
+Wat is jouw ideale regellengte (measure)?
+De ideale regellengte is tussen de 45 en 75 regels, zo is het voor de lezer makkelijker en fijner te lezen. Het liedje dat ik heb gekozen bestaat uit hele korte regels en het liedje is ook niet mega lang dus of ik doe het per regel of ik zet meerdere regels in 1.
+
+Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+Ik zou denk ik grootte gebruiken want dit geeft voor mij het duidelijkste de hiërarchie aan. je kan namelijk spelen met verschillende groottes.
+
+Ik ga voor het liedje Tijdsgeest
+<img width="514" height="794" alt="Scherm­afbeelding 2026-10-15 om 15 35 08" src="https://github.com/user-attachments/assets/f14dcab9-f9ab-444a-b268-52d20efc664a" />
+<img width="549" height="862" alt="Scherm­afbeelding 2026-10-15 om 15 35 15" src="https://github.com/user-attachments/assets/e063d349-83a0-4765-ae95-ff31a95ec456" />
+
+
+
 ### 2 okt - sprint 2 retrospect
 
 <img width="814" height="565" alt="Scherm­afbeelding 2026-10-04 om 12 31 11" src="https://github.com/user-attachments/assets/08e2f5fd-7929-4b2e-a147-7f897efe8bab" />
 <img width="835" height="571" alt="Scherm­afbeelding 2026-10-04 om 12 31 19" src="https://github.com/user-attachments/assets/cb35f6e1-b865-40d3-9d91-13c515dbbd79" />
 <img width="852" height="643" alt="Scherm­afbeelding 2026-10-04 om 12 31 27" src="https://github.com/user-attachments/assets/26844f9b-842b-4a77-9896-4ebf66f9f445" />
+
+Feedback:
+- bronnen beter vermelden
+- inhoud van cookie veranderen
+- geen styling in html gebruiken
+- screenreader oefenen
+- website testen met w3c validator en daarna de punten verbeteren
+- letten op responsive > small screen first
 
 ### 1 okt - zelfstandig werken
 
