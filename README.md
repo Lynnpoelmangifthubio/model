@@ -4,7 +4,30 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 6 ok6 - zelfstandig werken
+### herfstvakantie
+
+Deepdive: CSS animaties
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-15 om 23 24 27" src="https://github.com/user-attachments/assets/6ba55701-7994-43ef-a561-c454b9f9d5d4" />
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-16 om 12 27 15" src="https://github.com/user-attachments/assets/5e0c1a10-8378-4806-9ac4-6a168f1373a4" />
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-16 om 13 15 29" src="https://github.com/user-attachments/assets/7278db2b-087f-4cb5-8504-371b78456c07" />
+
+Ik had best veel moeite met JavaScript maar de css heb ik aardig onder de knie. Met hulp van de uitwerking is JS wel gelukt, als ik JS wil gebruiken in mijn website dan vraag ik een docent om hulp.
+
+### 8 okt - zelfstandig werken
+
+Deepdive: Variabele fonts
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-15 om 16 31 01" src="https://github.com/user-attachments/assets/47b07846-e60b-443d-9a40-b25e1809a898" />
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-15 om 17 02 10" src="https://github.com/user-attachments/assets/bd61aead-d095-4a71-9aaf-cef6a95d2fd2" />
+
+<img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-15 om 23 04 00" src="https://github.com/user-attachments/assets/1be9e4d2-20e6-479b-abb2-3806635f0086" />
+
+### 7 okt - werkles (thuis gemaakt)
+
+
+### 6 okt - zelfstandig werken
 
 Ik ben vandaag verder gegaan met de digitale vertaling van mijn schets:
 <img width="1710" height="1107" alt="Scherm­afbeelding 2026-10-15 om 13 23 40" src="https://github.com/user-attachments/assets/475b1d0b-c98b-4c7b-aff0-7f75cb423d32" />
@@ -12,6 +35,8 @@ Ik ben vandaag verder gegaan met de digitale vertaling van mijn schets:
 <img width="1710" height="989" alt="Scherm­afbeelding 2026-10-15 om 14 35 12" src="https://github.com/user-attachments/assets/15fb4562-cfed-438f-80ce-3922bb0118a7" />
 
 En ik heb de deep dive: S3: Interessantere layouts gemaakt.
+<img width="1267" height="885" alt="Scherm­afbeelding 2026-10-15 om 15 37 44" src="https://github.com/user-attachments/assets/a67e1cc4-c2db-4215-a584-76a9e812a013" />
+
 
 ### 5 okt - werkles
 
