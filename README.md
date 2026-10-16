@@ -26,6 +26,18 @@ Deepdive: Variabele fonts
 
 ### 7 okt - werkles (thuis gemaakt)
 
+Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+- Voor de ontwerper: het geeft meer structuur en zo wordt het ontwerpen ook makkelijker
+- Voor de bezoeker: duidelijker leesbaar en overzichtelijker
+Noem drie manieren om chaos in je ontwerp te voorkomen.
+- Grid gebruiken
+- Duidelijke hiërarchie gebruiken
+- Niet teveel afleidende animaties 
+Hoeveel gekkigheid moet er in je werk zitten?
+- Net genoeg om het uniek te maken maar niet zo veel dat het afleidend is of niet meer leesbaar is.
+
+<img width="1271" height="865" alt="Scherm­afbeelding 2026-10-16 om 14 21 51" src="https://github.com/user-attachments/assets/f3388eac-eef0-45fa-9eeb-4f647029895b" />
+
 
 ### 6 okt - zelfstandig werken
 
